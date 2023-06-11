@@ -14,4 +14,7 @@
         <img src="docs/c9cd46a9-b96c-11e4-a802-0aaa78deedf9.gif" width="128" height="128" style="padding: 0;margin: 0;"/>
         <img src="docs/c9cd48df-b96c-11e4-a802-0aaa78deedf9.gif" width="128" height="128" style="padding: 0;margin: 0;"/>
     </p>
+    <p align="center">
+        Bring children's drawings to life, by animating characters to move around!
+    </p>
 </div>
