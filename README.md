@@ -6,7 +6,7 @@
     </p>
     <p align="center" style="padding: 0;margin: 0;">
         <img src="docs/c9c651ae-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
-        <img src="docs/huadong.png" width="100" height="100" style="padding: 0;margin: 0;"/>
+        <img src="docs/qrcode.png" width="100" height="100" style="padding: 0;margin: 0;"/>
         <img src="docs/c9c74151-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
     </p>
     <p align="center" style="padding: 0;margin: 0;">
