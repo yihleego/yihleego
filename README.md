@@ -18,7 +18,7 @@
         <img src="docs/c9cbeca5-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
         <img src="docs/c9cd46a9-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
         <img src="docs/c9cd48df-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
-        <img src="docs/c9cc4024-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
+        <img src="docs/c9cd92e4-b96c-11e4-a802-0aaa78deedf9.gif" width="100" height="100" style="padding: 0;margin: 0;"/>
     </p>
     <p align="center">
         Bring children's drawings to life, by animating characters to move around!
